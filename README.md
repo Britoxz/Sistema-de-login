@@ -21,4 +21,4 @@ Praticar conceitos básicos de autenticação, manipulação do DOM e desenvolvi
 2. Abra o arquivo index.html no navegador
 
 ## Autor
-Seu Nome
+Arthur Brito
